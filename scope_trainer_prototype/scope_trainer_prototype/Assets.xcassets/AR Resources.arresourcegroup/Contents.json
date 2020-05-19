@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "knob.arreferenceimage"
+    },
+    {
+      "filename" : "knob2.arreferenceimage"
+    },
+    {
+      "filename" : "scope.arreferenceimage"
+    }
+  ]
+}
